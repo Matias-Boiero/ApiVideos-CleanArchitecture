@@ -1,0 +1,17 @@
+C:\Clean Architecture\Clean Architecture\CleanArquitecture.Data\bin\Debug\net6.0\CleanArchitecture.Data.deps.json
+C:\Clean Architecture\Clean Architecture\CleanArquitecture.Data\bin\Debug\net6.0\CleanArchitecture.Data.runtimeconfig.json
+C:\Clean Architecture\Clean Architecture\CleanArquitecture.Data\bin\Debug\net6.0\CleanArchitecture.Data.dll
+C:\Clean Architecture\Clean Architecture\CleanArquitecture.Data\bin\Debug\net6.0\ref\CleanArchitecture.Data.dll
+C:\Clean Architecture\Clean Architecture\CleanArquitecture.Data\bin\Debug\net6.0\CleanArchitecture.Data.pdb
+C:\Clean Architecture\Clean Architecture\CleanArquitecture.Data\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+C:\Clean Architecture\Clean Architecture\CleanArquitecture.Data\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+C:\Clean Architecture\Clean Architecture\CleanArquitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.csproj.AssemblyReference.cache
+C:\Clean Architecture\Clean Architecture\CleanArquitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Clean Architecture\Clean Architecture\CleanArquitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.AssemblyInfoInputs.cache
+C:\Clean Architecture\Clean Architecture\CleanArquitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.AssemblyInfo.cs
+C:\Clean Architecture\Clean Architecture\CleanArquitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.csproj.CoreCompileInputs.cache
+C:\Clean Architecture\Clean Architecture\CleanArquitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.csproj.CopyComplete
+C:\Clean Architecture\Clean Architecture\CleanArquitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.dll
+C:\Clean Architecture\Clean Architecture\CleanArquitecture.Data\obj\Debug\net6.0\ref\CleanArchitecture.Data.dll
+C:\Clean Architecture\Clean Architecture\CleanArquitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.pdb
+C:\Clean Architecture\Clean Architecture\CleanArquitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.genruntimeconfig.cache
