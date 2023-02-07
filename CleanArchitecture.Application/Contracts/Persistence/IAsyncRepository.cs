@@ -13,7 +13,7 @@ namespace CleanArchitecture.Application.Contracts.Persistence
                                        Func<IQueryable<T>, IOrderedQueryable<T>> orderBy = null,
                                        string includeString = null,
                                        bool disableTracking = true);
-        //Para paginación, relacion de tablas, joins
+        //Para paginación, relacion de tablas y multiples entidades.
         Task<IReadOnlyCollection<T>> GetAsync(Expression<Func<T, bool>> expression = null,
                                       Func<IQueryable<T>, IOrderedQueryable<T>> orderBy = null,
                                       List<Expression<Func<T, object>>> includes = null,
